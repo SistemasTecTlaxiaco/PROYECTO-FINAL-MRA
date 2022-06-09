@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\appPersonal\appPersonal\obj\Debug\appPersonal.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\appPersonal\appPersonal\obj\Debug\appPersonal.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\appPersonal\appPersonal\obj\Debug\appPersonal.exe.config
+C:\Users\USER\source\repos\appPersonal\appPersonal\obj\Debug\appPersonal.Form1.resources
+C:\Users\USER\source\repos\appPersonal\appPersonal\obj\Debug\appPersonal.GARTIFIACIÓNPEROSNAL.resources
+C:\Users\USER\source\repos\appPersonal\appPersonal\obj\Debug\appPersonal.LOGIN_principal.resources
+C:\Users\USER\source\repos\appPersonal\appPersonal\obj\Debug\appPersonal.MENU.resources
+C:\Users\USER\source\repos\appPersonal\appPersonal\obj\Debug\appPersonal.PERSONALTOTAL.resources
+C:\Users\USER\source\repos\appPersonal\appPersonal\obj\Debug\appPersonal.Properties.Resources.resources
+C:\Users\USER\source\repos\appPersonal\appPersonal\obj\Debug\appPersonal.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\appPersonal\appPersonal\obj\Debug\appPersonal.csproj.CoreCompileInputs.cache
